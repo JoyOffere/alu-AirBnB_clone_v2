@@ -1,5 +1,5 @@
 
-ALU-Airbnd_Clone_V2
+## ALU-Airbnd_Clone_V2
 
 
 ## Learning Objectives
@@ -18,5 +18,5 @@ How to handle 2 different storage engines with the same codebase
 How to use environment variables
 
 ## Authors
-Joy Offere < j.offere@alustudent.com >
-Onochie 
+    Joy Offere <j.offere@alustudent.com>
+    Onochie 
