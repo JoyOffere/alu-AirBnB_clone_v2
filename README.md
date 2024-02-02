@@ -18,5 +18,5 @@ How to handle 2 different storage engines with the same codebase
 How to use environment variables
 
 ## Authors
-    Joy Offere <j.offere@alustudent.com>
+    Joy Offere<j.offere@alustudent.com>
     Onochie 
