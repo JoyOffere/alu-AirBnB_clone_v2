@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """ new class for sqlAlchemy """
 from os import getenv
 from sqlalchemy.orm import sessionmaker, scoped_session
