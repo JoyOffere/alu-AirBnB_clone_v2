@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Fabric script which generates a tgz archive"""
+"""1. Compress before sending"""
 
 from datetime import datetime
 from fabric.api import local
