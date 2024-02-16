@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# web static development
+#0. Prepare your web servers
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
