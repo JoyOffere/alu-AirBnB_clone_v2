@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Fabric Script that distributes an archives"""
+"""2. Deploy archive!"""
 
 
 from fabric.api import put, run, env
